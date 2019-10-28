@@ -1,0 +1,18 @@
+﻿  gl3w.c
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  Application.cpp
+  View3.cpp
+  Color.cpp
+  GLGraphics3.cpp
+  GLGraphicsBase.cpp
+  GLProgram.cpp
+  GLWindow.cpp
+  MeshReader.cpp
+  MeshSweeper.cpp
+  NameableObject.cpp
+  TriangleMesh.cpp
+  Gerando Código...
+  cg.vcxproj -> C:\Users\Cláudio\Desktop\trab-cg\cg\common\build\vs2019\..\..\lib\cgD.lib
